@@ -9,3 +9,8 @@ I'm fluent in Portuguese and english, I'm learning japanese.
 ## Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaropedro&theme=radical&langs_count=10&layout=compact)](https://github.com/amaropedro/)
+
+## Projects
+
+Feel free to take a look at my projects below or at my repositories tab. </br>
+I'm currently working on my first pepper.
