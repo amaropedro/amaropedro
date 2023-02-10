@@ -13,4 +13,4 @@ I'm fluent in Portuguese and english, I'm learning japanese.
 ## Projects
 
 Feel free to take a look at my projects below or at my repositories tab. </br>
-I'm currently working on my first pepper.
+I'm currently working on my first pepper. All the code for it can be accessed through the **IC-Detect_Hemorrhage** repository
