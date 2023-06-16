@@ -4,8 +4,6 @@
 I'm a computer engineering student at UNIVASF. Born 22-jun-2001. </br>
 I'm fluent in Portuguese and English, I'm learning japanese.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaropedro&theme=radical&hide=issues,prs)
-
 <a href = "mailto:pedro.amaro.lacerda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-amaro-lacerda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
