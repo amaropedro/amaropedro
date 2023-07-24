@@ -24,4 +24,3 @@ I'm fluent in Portuguese and English, I'm learning japanese.
 ## Projects
 
 Feel free to take a look at my projects below or at my repositories tab. </br>
-I'm currently working on my first paper. All the code for it can be accessed through the **IC-Detect_Hemorrhage** repository
