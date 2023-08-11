@@ -17,7 +17,7 @@ I'm fluent in Portuguese and English. Currently learning Japanese.
 <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> TypeScript
 </br>*And More!*
 
-My biggest interests are: AI related work (especially CNN's), Compilers and SO's. I'm a very creative person and am passionate about game development. Right now i'm working with typescript and godot
+My biggest interests are: AI related work (especially CNN's), Compilers and Operating Systems. I'm a very creative person and am passionate about game development. Right now i'm working with typescript and godot
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaropedro&theme=radical&langs_count=10&layout=compact)](https://github.com/amaropedro/)
 
