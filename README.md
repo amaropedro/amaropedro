@@ -4,8 +4,10 @@
 I'm a computer engineering student at UNIVASF. Born 22-jun-2001. I love games!</br>
 I'm fluent in Portuguese and English. Currently learning Japanese.
 
-Check out the game I'm developing! https://twitter.com/ConchaIndigo
-
+Check out the game I'm developing! 
+  - https://twitter.com/ConchaIndigo
+  - https://store.steampowered.com/app/2925520/AOKAKI/
+  
 <a href = "mailto:pedro.amaro.lacerda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedro-amaro-lacerda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
