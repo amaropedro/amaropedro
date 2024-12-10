@@ -1,7 +1,7 @@
 
 ![#E5289E](https://placehold.co/1000000x2/E5289E/E5289E.png)
 # Hi, my name is Pedro Amaro.
-I'm a computer engineering student at UNIVASF. Born 22-jun-2001. I love games!</br>
+I'm a Computer Engineer & Indie Gamedev. Born 22-jun-2001.</br>
 Fluent in Portuguese and English. Currently learning Japanese.
 
 Check out the game I'm developing! 
